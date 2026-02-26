@@ -1,0 +1,4 @@
+#include <open.mp>
+
+main(){
+}
